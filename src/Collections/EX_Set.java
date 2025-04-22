@@ -9,7 +9,7 @@ public class EX_Set {
     public static void main(String[] args) {
 
         Set hs=new HashSet(); //not order and remove  dplicate
-        hs.add("banana");
+        hs.add("banaana");
         hs.add("apple");
         hs.add("orange");
         hs.add("kiwii");
