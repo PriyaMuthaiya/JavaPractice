@@ -12,7 +12,7 @@ public class EX_Set {
         hs.add("banana");
         hs.add("apple");
         hs.add("orange");
-        hs.add("kiwi");
+        hs.add("kiwii");
         hs.add("orange");
         hs.add("null");
         System.out.println("-------Hash set---------");
