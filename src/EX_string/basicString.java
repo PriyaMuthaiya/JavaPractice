@@ -7,6 +7,12 @@ public class basicString {
         s1="world";
         s1=s1.concat("helo");
         System.out.println(s1);
+
+        String s3="java";
+        char c[]=s3.toCharArray();
+        System.out.println(c);
+        char[] charArray = {'a', 'b', 'c', 'd', 'e'};
+        System.out.println(charArray);
     }
 
 
