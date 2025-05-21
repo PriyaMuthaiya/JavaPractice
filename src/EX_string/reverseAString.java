@@ -10,6 +10,7 @@ public class reverseAString {
         String reverseName=name.reverse().toString();
         System.out.println(reverseName);
         //check if palindrome
+
         if(reverseName.equalsIgnoreCase(original)){
             System.out.println("palindrome");
         }
